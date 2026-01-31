@@ -6,7 +6,7 @@ I’m a Computer Science student passionate about building practical projects, l
 ---
 
 ## 🚀 About Me
-- 🎓 First-year **Computer Science (GLSI)** student  
+- 🎓 Second-year **Computer Science (GLSI)** student  
 - 🧠 Interested in **Software Engineering**, **Web Development**, and **AI Agents**  
 - 🤖 Learning and experimenting with **Google Agent ADK** & **Antigravity**  
 - 🧩 I love breaking down problems and building solutions step-by-step  
